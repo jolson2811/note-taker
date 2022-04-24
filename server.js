@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended: true }));
 // parse incoming JSON data
 app.use(express.json());
 // provided filepath to public folder so files are static resources
-app.use(express.static('public'));
+app.use(express.static('./Develop/public'));
 
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
