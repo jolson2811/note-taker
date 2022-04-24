@@ -3,5 +3,15 @@
     "title": "Store",
     "text": "bananas",
     "id": "a71cd801-87ba-4980-bb50-17626c2c07da"
+  },
+  {
+    "title": "To Do",
+    "text": "wash dog",
+    "id": "0bdb3139-7025-41d8-86d8-4181f75352e7"
+  },
+  {
+    "title": "Finance",
+    "text": "-add expenses\n-update net worth",
+    "id": "1b788a84-8d35-41b1-baf8-309562d7a3b3"
   }
 ]
